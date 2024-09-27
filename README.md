@@ -1,4 +1,4 @@
-```markdown
+
 # Docker Practice: Setting Up and Running Containers
 
 This project contains a set of Docker commands to help you practice Docker skills, including setting up Docker, managing containers, and building a Python-based Docker image.
