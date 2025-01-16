@@ -99,7 +99,7 @@ sudo touch test.py
 
 ```dockerfile
 FROM python:latest
-LABEL Maintainer="atulkamble"
+LABEL Maintainer="AshuGitHub-7"
 WORKDIR /usr/app/src
 COPY test.py .
 CMD [ "python", "./test.py"]
@@ -114,7 +114,7 @@ print("Hello, Docker World!")
 #### Build and Verify Docker Image:
 
 ```bash
-sudo docker build -t atuljkamble/pythonhelloworld .
+sudo docker build -t AshuGitHub-7/pythonhelloworld .
 sudo docker images
 ```
 
